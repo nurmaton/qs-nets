@@ -731,7 +731,7 @@ def visualize_here(Alphas, Betas, Gammas, Deltas, Edge):
         phi = phi_slider.val
 
         
-        tilde_e = -1
+        tilde_e = 1
         
         if phi != 0 and phi != 360:
             Z = 1 / tan(phi / 2)                    
