@@ -1,3 +1,6 @@
+# Numerical Search for "Flexible 3*3 Nets of Equimodular Elliptic Type"
+# Author: Abdukhomid Nurmatov  
+
 import numpy as np
 from scipy.optimize import root
 import time
