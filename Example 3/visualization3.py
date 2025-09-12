@@ -1474,7 +1474,7 @@ def main():
     
     # DihedralAngles = [2 * np.degrees(np.arctan(1/ZZ)), 2 * np.degrees(np.arctan(1/WW2_vals)), 2 * np.degrees(np.arctan(1/UU_vals)), 2 * np.degrees(np.arctan(1/WW1_vals))]
     
-    DihedralAngles = [120, 140, 125, 135]
+    DihedralAngles = [130, 140, 125, 135]
     
     # DihedralAngles = [2 * np.degrees(np.arctan(np.sqrt(5) / 2)), 2 * np.degrees(np.arctan(2)), 2 * np.degrees(np.arctan((2 + 6 * np.sqrt(5)) / (11 * np.sqrt(11)))), 2 * np.degrees(np.arctan(1/2))]
     # DihedralAngles = [2 * np.degrees(np.arctan(np.sqrt(3))), 2 * np.degrees(np.arctan(np.sqrt(21) / 5)), 2 * np.degrees(np.arctan(1 / np.sqrt(3))), 2 * np.degrees(np.arctan(1 / np.sqrt(3)))]
