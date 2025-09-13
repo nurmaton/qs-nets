@@ -4,7 +4,7 @@ This repository accompanies the paper **"Flexible 3x3 Nets of Equimodular Ellipt
 It provides constructive criteria, verified examples (closed-form and numerical), and code to **search, verify, construct, and visualize** flexible Kokotsakis polyhedra of **equimodular elliptic type** for the quadrangular base case (n = 4).
 
 The repo includes:
-- **Symbolic verification notebooks** (Wolfram Mathematica) that check the existence criterion and the closed-form examples.
+- **Symbolic verification notebooks** (Wolfram Mathematica) that check the existence criterion and examples.
 - **Interactive Python visualizations** (Matplotlib) that animate flexion in R^3.
 - **A numerical search/verification pipeline** implementing the algebraic conditions from the paper.
 
