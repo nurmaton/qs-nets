@@ -1,6 +1,6 @@
 # Flexible Kokotsakis Polyhedra (Quadrangular Base, Equimodular Elliptic Type)
 
-This repository accompanies the paper **“Flexible 3\times3 Nets of Equimodular Elliptic Type.”**  
+This repository accompanies the paper **“Flexible 3 \times 3 Nets of Equimodular Elliptic Type.”**  
 It provides constructive criteria, verified examples (closed-form and numerical), and code to **search, verify, construct, and visualize** flexible Kokotsakis polyhedra of **equimodular elliptic type** for the quadrangular base case (n=4).
 
 The repo includes:
