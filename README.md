@@ -21,7 +21,7 @@ Top-level folders (as in this repo):
   `helper.pdf` — static print of the executed notebook.
 
 - **Algorithm/**  
-  `numerical_search.py` — multi-start root-finding with domain-aware initialization and a rigorous verification pipeline (Algorithm 1 in the paper).
+  `numerical_search.py` — multi-start root-finding with domain-aware initialization and a rigorous verification pipeline.
 
 - **Example 1/**  
   `helper1.nb` / `helper1.pdf` — closed-form checks and flexion formulas (Example 1).  
