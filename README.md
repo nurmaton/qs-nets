@@ -1,12 +1,14 @@
-# Flexible Kokotsakis Polyhedra (Quadrangular Base, Equimodular Elliptic Type)
+# Quasi-Symmetric Nets: A Constructive Approach to the Equimodular Elliptic Type of Kokotsakis Polyhedra
 
-This repository accompanies the paper **“Flexible $3 \times 3$ Nets of Equimodular Elliptic Type.”**  
+This repository accompanies the paper  
+**“Quasi-Symmetric Nets: A Constructive Approach to the Equimodular Elliptic Type of Kokotsakis Polyhedra.”**  
 It provides constructive criteria, verified examples (closed-form and numerical), and code to **search, verify, construct, and visualize** flexible Kokotsakis polyhedra of **equimodular elliptic type** for the quadrangular base case ($n=4$).
 
-The repo includes:
+The repository includes:
 - **Symbolic verification notebooks** (Wolfram Mathematica) that check the existence criterion and the examples.
 - **Interactive Python visualizations** (Matplotlib) that animate flexion in $\mathbb{R}^3$.
 - **A numerical search & verification pipeline** implementing the algebraic conditions from the paper.
+- **Appendix documentation** explaining the structure and usage of visualization scripts in each example folder.
 
 ---
 
@@ -18,7 +20,7 @@ Top-level folders (as in this repo):
   `helper.nb` — Mathematica companion for the existence criterion (Prop. `\ref{main_th:prop1}` in the paper).  
   `helper.pdf` — static print of the executed notebook.
 
-- **Algorithm 1/**  
+- **Algorithm/**  
   `numerical_search.py` — multi-start root-finding with domain-aware initialization and a rigorous verification pipeline (Algorithm 1 in the paper).
 
 - **Example 1/**  
@@ -37,7 +39,13 @@ Top-level folders (as in this repo):
   `helper4.nb` / `helper4.pdf` — numerical example verification (Example 4).  
   `visualization4.py` — interactive 3D viewer for Example 4.
 
-> The `*.pdf` files are printed versions of the executed Mathematica notebooks for quick reading without Mathematica.
+- **Appendix/**  
+  Documentation folder providing detailed explanations of the **visualization scripts** (`visualization1.py`–`visualization4.py`), including:
+  - Script dependencies and modular structure.
+  - Input/output format and coordinate conventions.
+  - How to extend visualization routines for new examples or geometries.
+
+> The `*.pdf` files are static versions of the executed Mathematica notebooks for quick reading without Mathematica.
 
 ---
 
@@ -51,7 +59,7 @@ Top-level folders (as in this repo):
   - `scipy` (root finding, optional but recommended)
   - `sympy` (optional, for algebraic helpers)
 
-Create a virtual environment and install:
+Create a virtual environment and install dependencies:
 ```bash
 python -m venv .venv
 # Linux/macOS:
