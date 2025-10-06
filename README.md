@@ -17,7 +17,7 @@ The repository includes:
 Top-level folders (as in this repo):
 
 - **Criterion/**  
-  `helper.nb` — Mathematica companion for the existence criterion (Prop. `\ref{main_th:prop1}` in the paper).  
+  `helper.nb` — Mathematica companion for the existence criterion.  
   `helper.pdf` — static print of the executed notebook.
 
 - **Algorithm/**  
