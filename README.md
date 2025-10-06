@@ -40,10 +40,7 @@ Top-level folders (as in this repo):
   `visualization4.py` — interactive 3D viewer for Example 4.
 
 - **Appendix/**  
-  Documentation folder providing detailed explanations of the **visualization scripts** (`visualization1.py`–`visualization4.py`), including:
-  - Script dependencies and modular structure.
-  - Input/output format and coordinate conventions.
-  - How to extend visualization routines for new examples or geometries.
+  Documentation folder providing detailed explanations of the **visualization scripts** (`visualization1.py`–`visualization4.py`).
 
 > The `*.pdf` files are static versions of the executed Mathematica notebooks for quick reading without Mathematica.
 
