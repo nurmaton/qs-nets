@@ -30,19 +30,19 @@ Top-level folders (as in this repo):
 - **Algorithm/**  
   `numerical_search.py` — multi-start root-finding with domain-aware initialization and a rigorous verification pipeline.
 
-- **Example 1/**  
+- **Example1/**  
   `helper1.nb` / `helper1.pdf` — closed-form checks and flexion formulas (Example 1).  
   `visualization1.py` — interactive 3D viewer for Example 1.
 
-- **Example 2/**  
+- **Example2/**  
   `helper2.nb` / `helper2.pdf` — closed-form checks (Example 2).  
   `visualization2.py` — interactive 3D viewer for Example 2.
 
-- **Example 3/**  
+- **Example3/**  
   `helper3.nb` / `helper3.pdf` — numerical example verification (Example 3).  
   `visualization3.py` — interactive 3D viewer for Example 3.
 
-- **Example 4/**  
+- **Example4/**  
   `helper4.nb` / `helper4.pdf` — numerical example verification (Example 4).  
   `visualization4.py` — interactive 3D viewer for Example 4.
 
