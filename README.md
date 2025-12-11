@@ -8,9 +8,6 @@ It provides constructive criteria, verified examples (closed-form and numerical)
 
 [![Video: Quasi-Symmetric Nets — 3-min Overview](https://img.youtube.com/vi/nnBfM4qHzR8/maxresdefault.jpg)](https://www.youtube.com/watch?v=nnBfM4qHzR8)
 
-**▶ Click the image to watch the 3-minute video abstract** introducing  
-**Quasi-Symmetric Nets** and the construction of **equimodular elliptic Kokotsakis polyhedra**.
-
 
 The repository includes:
 - **Symbolic verification notebooks** (Wolfram Mathematica) that check the existence criterion and the examples.
