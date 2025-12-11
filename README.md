@@ -39,7 +39,7 @@ Top-level folders (as in this repo):
   `visualization2.py` — interactive 3D viewer for Example 2.
 
 - **Example3/**  
-  `helper3.nb` / `helper3.pdf` — closed-form checks and flexion formulas (Example 3).
+  `helper3.nb` / `helper3.pdf` — closed-form checks and flexion formulas (Example 3).  
   `visualization3.py` — interactive 3D viewer for Example 3.
 
 - **Example4/**  
