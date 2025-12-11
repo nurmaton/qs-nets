@@ -4,6 +4,8 @@ This repository accompanies the paper
 **“Quasi-Symmetric Nets: A Constructive Approach to the Equimodular Elliptic Type of Kokotsakis Polyhedra.”**  
 It provides constructive criteria, verified examples (closed-form and numerical), and code to **search, verify, construct, and visualize** flexible Kokotsakis polyhedra of **equimodular elliptic type** for the quadrangular base case ($n=4$).
 
+[![Quasi-Symmetric Nets Video Abstract](https://img.youtube.com/vi/nnBfM4qHzR8/maxresdefault.jpg)](https://www.youtube.com/watch?v=nnBfM4qHzR8)
+
 The repository includes:
 - **Symbolic verification notebooks** (Wolfram Mathematica) that check the existence criterion and the examples.
 - **Interactive Python visualizations** (Matplotlib) that animate flexion in $\mathbb{R}^3$.
