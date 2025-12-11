@@ -6,7 +6,7 @@ It provides constructive criteria, verified examples (closed-form and numerical)
 
 ## Video Abstract
 
-[![Video: Quasi-Symmetric Nets — 3-min Overview](https://img.youtube.com/vi/nnBfM4qHzR8/maxresdefault.jpg)](https://www.youtube.com/watch?v=nnBfM4qHzR8)
+[![Watch the video](https://img.youtube.com/vi/nnBfM4qHzR8/0.jpg)](https://www.youtube.com/watch?v=nnBfM4qHzR8)
 
 
 The repository includes:
