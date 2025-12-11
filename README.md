@@ -51,7 +51,7 @@ Top-level folders (as in this repo):
   `visualization5.py` — interactive 3D viewer for Example 5.  
 
 - **Appendix/**  
-  Documentation folder providing detailed explanations of the **visualization scripts** (`visualization1.py`–`visualization4.py`).
+  Documentation folder providing detailed explanations of the **visualization scripts** (`visualization1.py`–`visualization5.py`).
 
 > The `*.pdf` files are static versions of the executed Mathematica notebooks for quick reading without Mathematica.
 
