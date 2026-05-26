@@ -1,5 +1,5 @@
-# Numerical Search for "Flexible 3*3 Nets of Equimodular Elliptic Type"
-# Author: Abdukhomid Nurmatov  
+# Interactive Visualization for "Quasi-Symmetric Nets: A Constructive Approach to the Equimodular Elliptic Type of Kokotsakis Polyhedra" (Numerical Search)
+# A. Nurmatov,  M. Skopenkov, F. Rist, J. Klein, D. L. Michels
 
 import numpy as np
 from scipy.optimize import root
