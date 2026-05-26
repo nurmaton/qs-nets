@@ -1,4 +1,4 @@
-# Interactive Visualization for "Quasi-Symmetric Nets: A Constructive Approach to the Equimodular Elliptic Type of Kokotsakis Polyhedra" (Numerical Search)
+# Numerical Examples Search for "Quasi-Symmetric Nets: A Constructive Approach to the Equimodular Elliptic Type of Kokotsakis Polyhedra" (Numerical Search)
 # A. Nurmatov,  M. Skopenkov, F. Rist, J. Klein, D. L. Michels
 
 import numpy as np
